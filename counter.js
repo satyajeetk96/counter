@@ -14,7 +14,7 @@ btn1.addEventListener("click", function(){
           num.style.color = "#7fff00"
     }
     else{
-        num.style.color = "#29d2c7"
+        num.style.color = "#d9cf14"
     }
     num.innerText= number;
 
@@ -29,7 +29,7 @@ btn2.addEventListener("click", function(){
           num.style.color = "#7fff00"
     }
     else{
-        num.style.color = "#29d2c7"
+        num.style.color = "#d9cf14"
     }
     num.innerText = number;
 
@@ -44,7 +44,7 @@ btn3.addEventListener("click", function(){
           num.style.color = "#7fff00"
     }
     else{
-        num.style.color = "#29d2c7"
+        num.style.color = "#d9cf14"
     }
     num.innerText= number;
 
