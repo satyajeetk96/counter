@@ -37,6 +37,7 @@ body {
     font-size: 1.25rem;
     cursor: pointer;
     padding: .4rem .4rem .4rem .4rem;
+    border-radius: .6rem;
   }
 
   button:hover{
